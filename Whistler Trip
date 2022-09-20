@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
+  </head>
+  <body>
+    <h1 style="font-family:Helvetica"><center>My Trip to Whistler</center></h1>
+    <center><img width="400" height="275" src="https://mail.google.com/mail/u/0?ui=2&ik=bc79d94a75&attid=0.1&permmsgid=msg-f:1743864845877581195&th=183373d682d3158b&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ9XVu0xN7niZsqbvaudKZXqdNFR8vj943M6IaMQeKACGfY7juxm8-GoObnr8O3vqW3DCdK2fvl6l5A3LYEjg-N5zJwOfyDGbauiiTIWsRCeorwqxvw7fuqLQ9Q&disp=emb&realattid=6b59ede754b5b373_0.1.1"</center>
+    <p>
+      
+    </p>
+<p1 style="font-family:Trebuchet MS"><center>This summer me and my family went on a trip to Whistler with another family for 2 weeks. We mainly went to go biking but did lots of other things while we were there. Here are a couple photos from my trip with descriptions about them.</center></p1>
+    <p>
+ 
+    </p>
+    <img align="left" style="padding-left:20px" width="260" height="150" src="https://mail.google.com/mail/u/0?ui=2&ik=bc79d94a75&attid=0.1&permmsgid=msg-f:1743865977209668149&th=183374ddeb78c235&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ850YzIqYahiwgZ6510uBKg9mSw7Vt5kr1mrJ7e-qgqWYS4p2L6l0E17ZKP_xSCF1X__6gzt_GrKyB7A3qwrW746K5Lpes7os_Og7au3l5J8mRziTXeHLSZtyU&disp=emb&realattid=14a813e46b50cefa_0.1.1"
+
+      <p>
+        
+      </p>
+    
+    <p2 style="font-family:Trebuchet MS"><center>This is a photo that was taken on the trail "Crank it up" by bike park photos. This trail is the perfect beginner jump trail because there is a varity of features and the jumps start small and progressivly work there way up.</center></p2>
+
+  <p>
+    
+  </p>
+    <img align="right" style="padding-right:20px" width="275" height="150" src="https://mail.google.com/mail/u/0?ui=2&ik=bc79d94a75&attid=0.1&permmsgid=msg-f:1744043437618595420&th=18341644241b865c&view=fimg&fur=ip&sz=s0-l75-ft&attbid=ANGjdJ-NgAQQY90igaXRxV7Q4LqbtwomWiqN4icIaugx-xMygIm11d8bx4VWK4loMMJ5w6JMM9KWm4eJdzqwCJwvCR0mtwxNqGEnzUVjpXvN295mGwkDK0hRDhyESJo&disp=emb&realattid=72354bbe9f182c9f_0.1.1"
+
+    <p>
+
+      
+    </p>
+    <p2 style="font-family:Trebuchet MS"><center>This is a photo that was taken on the trail "A-line" by bike park photos. This trail is one of the advanced jump trails which is known world wide and probably the most famous jump trail. This jump is called the moonbooter because of the wall of dirt you ride up amd fly off.</center></p2>
+</p>
+
+<h2 style="font-family:Helvetica"><center>List of Favourite runs</center></h2>    
+    <table>
+  <tr>
+    <th>Run</th>
+    <th>Rank</th>
+    <th>Rating</th>
+  </tr>
+  <tr>
+    <td>Dirt Merchant</td>
+    <td style="padding-left:15px">(1)</td>
+    <td style="padding-left:15px">Pro Line</td>
+  </tr>
+  <tr>
+    <td>Fade to Black</td>
+    <td style="padding-left:15px">(2)</td>
+    <td style="padding-left:15px">Expert</td>
+  </tr>
+<tr>
+  <td style="padding-left:25px">A-Line</td>
+  <td style="padding-left:15px">(3)</td>
+  <td style="padding-left:15px">Advanced</td>
+</tr>
+</table>
+  </body>
+</html>
